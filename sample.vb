@@ -1,3 +1,4 @@
+'Warning: it was created a few years ago. I didn't check whether it works properly until now.
 Option Explicit
 
 Const MAX_GEOGRAPHICAL_NAME as Long = 4
