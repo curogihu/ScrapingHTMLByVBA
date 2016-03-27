@@ -2,8 +2,6 @@ Name
 ====
 Scrape Japanese local government urls from a site
 
-Overview
-
 ## Description
 Based on a base site which state all Japanese local government url, get and display local government name to a sheet.
 However, base site didn't work now. So, it was put on hold.
